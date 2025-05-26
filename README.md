@@ -21,4 +21,4 @@ The aim is to create an accessible, quick-reference hub that lists:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/support-resources-site.git
+   git clone https://github.com/TanveerBassi/support-resources-site.git
